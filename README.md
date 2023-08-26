@@ -84,13 +84,13 @@
 <h3 align="center">Stats</h3>
 <div align="center">
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Valentin-Erth&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Valentin-Erth&layout=compact&theme=vision-friendly-dark)](https://github.com)
 
 </div>
 
 <div align="center">
 
-[![codewars](https://www.codewars.com/users/Valentin-Erth/badges/large)](https://www.codewars.com/users/zemosamurai)
+[![codewars](https://www.codewars.com/users/Valentin-Erth/badges/large)](https://www.codewars.com/users/Valentin-Erth)
 
 </div>
 
